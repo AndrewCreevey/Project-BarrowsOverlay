@@ -1,5 +1,5 @@
 # Barrows Overlay
-i.imgur.com/A8obuDv.png
+*Image of overlay: http://i.imgur.com/A8obuDv.png*
 
 This was an overlay I made for a YouTuber/Live Streamer, Skourai_RS, who has over 15,000 subscribers.
 
