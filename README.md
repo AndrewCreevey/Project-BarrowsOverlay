@@ -1,4 +1,4 @@
-# Project-BarrowsOverlay
+# Barrows Overlay
 This was an overlay I made for a YouTuber/Live Streamer, Skourai_RS, who has over 15,000 subscribers.
 
 Previously he had a very bland picture with the 24 items on which he was updating every time he got an item. To update his overlay he had to; email his friend what item he obtained, his friend had to edit his photoshop file and email it back to Finn.
