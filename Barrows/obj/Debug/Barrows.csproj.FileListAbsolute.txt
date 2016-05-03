@@ -1,0 +1,13 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\bin\Debug\Barrows.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\bin\Debug\Barrows.exe
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\bin\Debug\Barrows.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.exe
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.Barrows.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Barrows\Barrows\bin\Debug\Barrows.exe.manifest
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Barrows\Barrows\bin\Debug\Barrows.application
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.exe.manifest
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.application
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Barrows\Barrows\obj\Debug\Barrows.csprojResolveAssemblyReference.cache
