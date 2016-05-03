@@ -1,0 +1,27 @@
+Here's some instructions/info to help reduce errors :)
+
+######################################################################
+
+First step: Install the runescape font in the Barrows folder!
+Simply double click, then click "install" in the top left, then exit
+
+######################################################################
+
+For stream, you will have to window capture the overlay when its open
+then drag/resize to fit over the chatbox
+
+At the moment you can't reduce the number of barrows items, so if 
+you accidentally click one you will have to restart the program :P
+	- I can fix this if you really like, just let me know
+	  if it becomes an annoying issue, its quite a big job for me
+
+######################################################################
+
+I thought the chest would be most annoying when you have >100 chests
+so, you can right click on the chest and change the number
+
+From then on, especially when you have high numbers (1000+) you have 
+to click the very top of the box to add to count/right click. 
+
+######################################################################
+
