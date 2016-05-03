@@ -10,6 +10,5 @@ Finn was stoked when he saw what I created and has directed a few people, who wa
 Follow my progress with other overlay projects on GitHub :)
 
 
-His YouTube channel can be found here: https://www.youtube.com/user/UkeleleFinn
-
-His Twitch.tv (LiveStream) can be found here: https://www.twitch.tv/wildyironman
+  - His YouTube channel can be found here: https://www.youtube.com/user/UkeleleFinn
+  - His Twitch.tv (LiveStream) can be found here: https://www.twitch.tv/wildyironman
