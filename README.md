@@ -5,7 +5,7 @@ This was an overlay I made for a YouTuber/Live Streamer, Finn, who has over 15,0
 
 Previously he had a very bland picture with the 24 items on which he was updating every time he got an item. To update his overlay he had to; email his friend what item he obtained, his friend had to edit his photoshop file and email it back to Finn.
 
-I saw an opportunity where I could combine my programming knowledge and my creativity to try and make an interactive program that looked great and easy to use. 
+I saw an opportunity where I could combine my programming knowledge and my creativity to try and make an interactive program that looked great and was easy to use. 
 
 Finn was stoked when he saw what I created and has directed a few people, who want their own overlays, my way. This has led to more opportunities for me to hone my skills and create many other overlays.
 
