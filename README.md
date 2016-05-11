@@ -1,6 +1,7 @@
 # Barrows Overlay
   - *Image of overlay: http://i.imgur.com/A8obuDv.png*
-  - *Gifv of use: http://i.imgur.com/WMSil8I.gifv (My screen recorder doesn't track the mouse correctly)*
+  - *Overlay being used on stream: http://i.imgur.com/XzY4Bwy.png*
+  - *Gifv example of use: http://i.imgur.com/WMSil8I.gifv (My screen recorder doesn't track the mouse correctly)*
 
 This was an overlay I made for a YouTuber/Live Streamer, Finn, who has over 15,000 subscribers.
 
